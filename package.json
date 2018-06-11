@@ -1,0 +1,45 @@
+{
+  "_from": "@cnpm/computation-time",
+  "_id": "@cnpm/computation-time@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-0QzoahkDH9ObE9fmj8Vr8ON3ad0=",
+  "_location": "/@cnpm/computation-time",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@cnpm/computation-time",
+    "name": "@cnpm/computation-time",
+    "escapedName": "@cnpm%2fcomputation-time",
+    "scope": "@cnpm",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://10.10.160.127:7001/@cnpm/computation-time/download/@cnpm/computation-time-1.0.6.tgz",
+  "_shasum": "d10ce86a19031fd39b13d7e68fc56bf0e37769dd",
+  "_spec": "@cnpm/computation-time",
+  "_where": "D:\\projects\\Develop\\appdev\\yuqing",
+  "author": {
+    "name": "liangzhimin"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "处理时间展现形式的功能",
+  "keywords": [
+    "时间",
+    "计算"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@cnpm/computation-time",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "svn": "http://svn.chinaso365.com/svn/wljsb/f_fe/fp/computation-time",
+  "version": "1.0.6"
+}
